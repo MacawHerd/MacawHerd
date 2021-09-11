@@ -92,7 +92,7 @@ const Home: NextPage = () => {
   return (
     <div className="font-lato bg-black items-center justify-center flex">
       <Head>
-        <title>Macaw Herds </title>
+        <title>Macaw Herd </title>
         <meta
           name="description"
           content="Macaw Herd is a collection of 700 randomly generated Macaw NFTs on the Fantom Blockchain"
