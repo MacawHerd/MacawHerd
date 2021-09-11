@@ -54,7 +54,7 @@ const Home: NextPage = () => {
     let network = await provider.getNetwork();
     await provider.send("eth_requestAccounts", []);
 
-    if (network.chainId != 4002) {
+    if (network.chainId != 250) {
       window.alert("Switch to Fantom to continue");
       setContextState({ ...contextState, isFantom: false, isConnected: true });
       return;
