@@ -34,7 +34,7 @@ function Mint() {
 
   return (
     <div className="flex flex-col relative items-center  w-full py-20">
-      <div className="absolute right-8 lg:right-16 bottom-0 lg:top-40">
+      <div className="hidden md:absolute right-8 lg:right-16 bottom-0 lg:top-40">
         <img
           className="rounded-2xl w-40 lg:w-60"
           src="/assets/images/tree.gif"
