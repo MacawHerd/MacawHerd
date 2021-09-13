@@ -16,7 +16,7 @@ const paperApi = async(req:any, res:any) => {
 
   if(query<700){
 
-  let url='https://gateway.pinata.cloud/ipfs/QmW7A4ZCWytGvnsGXBZ3NjMfwefgkLuJwSfaCFHoy7oKLA/'+query+'.json'
+  let url='https://gateway.pinata.cloud/ipfs/QmeGCMFk6RcoFsZKDAifNbydjUyQiXz9n9tZkjVskVWLLR/'+query+'.json'
   const results = await fetch(url)
   const data = await results.json()
   // const filePath = path.resolve('.', 'public/assets/metadata/'+query+'.json')
