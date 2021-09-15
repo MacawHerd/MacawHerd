@@ -7,15 +7,15 @@ const roadMapData = [
   },
   {
     amt: 25,
-    info: "Charity wallet filled with 10,500 FTM. All the donations will be going to SaveTheChildren Charity. Our mission with Macaw Herd is to bring a large community, all while supporting charities that help children across the world.",
+    info: "Charity wallet filled with 21,000 FTM. All the donations will be going to SaveTheChildren Charity. Our mission with Macaw Herd is to build a community, all while supporting charities that help children across the world.",
   },
   {
     amt: 75,
-    info: "Charity wallet filled with 10,500 FTM. At this stage our production will start on a new NFT project only available for Macaw Herd holders, and it will be free to claim.",
+    info: "Charity wallet filled with 31,500 FTM. At this stage our production will start on a new NFT project only available for Macaw Herd holders, and it will be free to claim.",
   },
   {
     amt: 100,
-    info: "Charity wallet filled with 10,500 FTM. Charity wallet in total will be filled with 42,000 FTM and will all be donated to SaveTheChildren charity.",
+    info: "Charity wallet filled with 42,000 FTM. All the donations will be sent to SaveTheChildren charity.",
   },
 ];
 
