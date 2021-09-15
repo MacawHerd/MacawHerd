@@ -14,6 +14,7 @@ import { AppContext } from "../context/AppContext";
 import Popup from "../components/Popup";
 import Hero from "../components/pages/home/Hero";
 import Mint from "../components/pages/home/Mint";
+import Roadmap from "../components/pages/home/Roadmap";
 import Gallery from "../components/pages/home/Gallery";
 import Footer from "../components/pages/home/Footer";
 import { MACAW_ABI, MACAW_ADDRESS } from "../utils/contracts/MacawContract";
@@ -126,6 +127,7 @@ const Home: NextPage = () => {
         <Hero />
         <Gallery />
         <Mint />
+        <Roadmap />
         <Footer />
         <Popup>
           <div className=" flex rounded-2xl flex-col items-center justify-evenly text-white text-xl py-16 px-4 space-y-4 border-8 border-green-400 max-w-[400px] bg-[#0D0A21] ">
