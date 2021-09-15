@@ -9,7 +9,7 @@ function Hero() {
         </h1>
         <span className="text-lg font-semibold text-gray-200 text-center lg:text-left">
           Macaw Herd is a collection of 700 randomly generated Macaw NFTs on the
-          Fantom Blockchain, with all the traits being hand drawn individually
+          Fantom Blockchain, with all traits hand drawn individually
           and meticulously by our artist. Each Macaw in our Macaw Herd
           collection is unique with no limit on what you could potentially use
           them for. Our Macaws are cute, goofy, and very smart individuals.
