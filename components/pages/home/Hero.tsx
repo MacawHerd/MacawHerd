@@ -15,7 +15,8 @@ function Hero() {
           them for. Our Macaws are cute, goofy, and very smart individuals.
           Macaws are known for eating too many seeds, nuts and fruits but
           they’re especially known for mimicking your sounds. I mean come on,
-          who wouldn’t want to own a Macaw?
+          who wouldn’t want to own a Macaw? Holding a Macaw grants you access
+          to future airdrops, hodlers-only perks and features.
         </span>
       </div>
       <div className="flex-1 flex items-center justify-end w-full h-full">
