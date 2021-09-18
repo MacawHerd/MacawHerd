@@ -7,7 +7,7 @@ const roadMapData = [
   },
   {
     amt: 25,
-    info: "Charity wallet filled with 21,000 FTM. All the donations will be going to SaveTheChildren Charity. Our mission with Macaw Herd is to build a community, all while supporting charities that help children across the world.",
+    info: "Charity wallet filled with 21,000 FTM. All the donations will be going to organizations supporting victims of war or saving children. Our mission with Macaw Herd is to build a community, all while supporting charities that help children across the world.",
   },
   {
     amt: 75,
@@ -15,7 +15,7 @@ const roadMapData = [
   },
   {
     amt: 100,
-    info: "Charity wallet filled with 42,000 FTM. All the donations will be sent to SaveTheChildren charity.",
+    info: "Charity wallet filled with 42,000 FTM. All the donations will be sent to organizations supporting victims of war or saving children.",
   },
 ];
 
