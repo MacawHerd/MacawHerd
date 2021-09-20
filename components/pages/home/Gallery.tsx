@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 export default function Gallery() {
   return (
@@ -14,11 +15,13 @@ export default function Gallery() {
           <img className="rounded-lg" src="/assets/images/3.png" alt="" />
           <img className="rounded-lg" src="/assets/images/4.png" alt="" />
           <img className="rounded-lg" src="/assets/images/5.png" alt="" />
-          <div className="flex items-center justify-center bg-green-100 rounded text-3xl py-12 cursor-pointer font-bold">
-            View All
+          <Link href="https://paintswap.finance/nfts/collections/0x309ce455ec9846e5c5839e4870f1a0fcafbd9ef1">
+            <div className="flex items-center justify-center bg-green-100 rounded text-3xl py-12 cursor-pointer font-bold">
+                  View All
+                </div>
+           </Link>
           </div>
         </div>
       </div>
-    </div>
   );
 }
